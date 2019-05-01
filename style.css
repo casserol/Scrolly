@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+html,
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: #d5fdff;
+}
+
+
+.scroll-line{
+  background: #89c7b2;
+  border-radius: 5%;
+  height: 10px;
+  position: fixed;
+  top: 0;
+  width: 0%;
+}
+
+.styling {
+  text-align: center;
+  font-size: 80px;
+
+}
